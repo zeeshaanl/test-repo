@@ -1,5 +1,3 @@
 a new file
 
 base change
-
-another base change
