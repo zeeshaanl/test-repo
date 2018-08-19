@@ -5,3 +5,5 @@ base change
 another base change
 
 feat3
+
+another line that needs to be reverted
